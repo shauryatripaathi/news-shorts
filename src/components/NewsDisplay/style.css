@@ -1,0 +1,13 @@
+.displayNews{
+    display: flex;
+    justify-content: center;
+}
+.categories{
+    text-align: center;
+    padding: 10px;
+}
+.timeAndDate{
+    background-color: azure;
+    padding: 10px;
+    text-align: center;
+}
